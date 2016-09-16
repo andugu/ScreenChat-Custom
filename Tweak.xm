@@ -4,7 +4,7 @@
 #import "substrate.h"
 
 /* ============
-   Interficies
+   Interfaces
 ============= */
 
 @interface Manager
