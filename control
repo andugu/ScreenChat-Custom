@@ -1,0 +1,9 @@
+Package: com.andugu.screenchat
+Name: ScreenChat
+Depends: mobilesubstrate
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Make Snapchat yours!
+Maintainer: andugu
+Author: andugu
+Section: Tweaks
